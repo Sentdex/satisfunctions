@@ -9,7 +9,7 @@ https://www.python.org/downloads/
 
 3. Navigate to this cloned project's directory in a terminal/command line
 
-4. type in `pip install requirements.txt`
+4. type in `pip install -r requirements.txt`
 
 5. now you can run the script from terminal/command line with: `python satisfactory_building.py`
 
