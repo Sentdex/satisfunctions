@@ -21,4 +21,4 @@ At the moment, the build key is set to "E", so you pick your foundation to build
 All this script is doing is clicking as fast as possible so long as the E key is pressed. You can also tap the E key once for building a single thing. 
 
 
-![](satisfunctions.gif)
+![](satisfunctions2.gif)
